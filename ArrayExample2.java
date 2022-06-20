@@ -8,7 +8,7 @@ public class ArrayExample2
         System.out.print("Enter size of array : ");
         int n=sc.nextInt();
         int en=0;
-        int od=0;
+        int odd=0;
         int ar[]= new int[n];
         System.out.println("Enter the Array Element : ");
         for(int i=0 ; i<ar.length ;i++)
@@ -23,11 +23,11 @@ public class ArrayExample2
             }
             else
             {
-                od++;
+                odd++;
             }
         }
         System.out.println("No. of even no. : "+en);
-        System.out.println("No. of odd no. : "+od);
+        System.out.println("No. of odd no. : "+odd);
     }
     public static void main(String args[])
     {
