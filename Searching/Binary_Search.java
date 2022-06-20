@@ -1,4 +1,4 @@
-
+// By Recursive Method 
 class Binary_Search {
 	
 	static int binary_Search(int arr[], int x)
