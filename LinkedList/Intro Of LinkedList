@@ -1,14 +1,2 @@
 Linked List is Linear Data Structure . It has block data and reference of another node . 
 
-<html>
-<head></head>
-<title>Linked List</title>
-<body>
-  <table>
-  <tr>
-    <td>Data</td>
-    <td>Next</td>
-  </tr>
-  </table>
-</body>
-</html>
