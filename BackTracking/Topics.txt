@@ -1,0 +1,4 @@
+1. Rat in Maze 
+ a. check the whether it's true or false.
+ b. Print the path matric
+ c. Print all the possible path from initial to final destination. 
