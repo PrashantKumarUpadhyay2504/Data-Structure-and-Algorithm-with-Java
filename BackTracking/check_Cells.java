@@ -29,12 +29,10 @@ public class check_Cells {
         if(solveMaze(maze,i+1,j,Path)){
             return true;
         }
-
         //Left
         if(solveMaze(maze,i,j-1,Path)){
             return true;
         }
-
         return false;
     }
     public static void main(String[] args) {
