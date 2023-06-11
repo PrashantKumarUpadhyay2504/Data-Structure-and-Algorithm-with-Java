@@ -1,0 +1,11 @@
+Sorting :
+
+Sorting algorithms come into play such as selection sort, bubble sort, insertion sort, radix sort, bucket sort, etc but if we look closer here we are not asked to use any kind of algorithms. 
+It is as simple sorting with the help of linear and non-linear data structures present within java. 
+So there is sorting done with the help of brute force in java with the help of loops and there are two in-built methods to sort in Java. 
+
+The Way of Sorting in java: 
+1.Using loops
+2.Using sort() method of Arrays class
+3.Using sort method of Collections class
+4.Sorting on a subarray

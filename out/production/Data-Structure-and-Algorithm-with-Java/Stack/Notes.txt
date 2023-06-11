@@ -1,0 +1,23 @@
+1.Stack is a linear data structure which follows a particular order in which the operations are performed. 
+
+2.The order may be LIFO(Last In First Out) or FILO(First In Last Out).
+
+3.Some of its main operations are:
+ a)push()
+ b)pop()
+ c)top() or peek()
+ d)isEmpty()
+ e)isFull()
+ f)size()
+ 
+ a)Push: Adds an item to the stack. If the stack is full, then it is said to be an Overflow condition.
+ 
+ b)Pop: Removes an item from the stack. The items are popped in the reversed order in which they are pushed. 
+ If the stack is empty, then it is said to be an Underflow condition.
+ 
+ c)Peek or Top: Returns the top element of the stack.
+ 
+ d)isEmpty: Returns true if the stack is empty, else false.
+ 
+ 4.push(), pop(), isEmpty() and peek() all take O(1) time. We do not run any loop in any of these operations.
+ 
